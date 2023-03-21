@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/126029213/226600275-c8c2a8e8-51b5-4e56
 
 # The Code now after it has been refactoerd & Debugged in HTML: # 
 
-
+file:///C:/Users/Admin/bootcamp/challenges/Horiseon-Search-Engine-Optimizations-Webpage--Edits-Updates/HTML/Index.Html
 
 #code has been refactored #
 *Major Changes Made are as follows*,
@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/126029213/226600275-c8c2a8e8-51b5-4e56
 * all the icon and image elements have been updated 
 *I have added accessible alt attributes
 * you can view the heading attributes & they fall in sequential order
-* view the title element & find an updated concise, descriptive title
+* can view the title element & find an updated concise, descriptive title
 
 
 
