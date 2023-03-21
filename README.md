@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/126029213/226604634-d26c1655-14d0-4842
 
 
  # 4.Credits #
-Teaching Staff through the Adelaaide University Coding Bootcamp
+Teaching Staff through the Adelaide University Coding Bootcamp
 MDN webdocs-https://developer.mozilla.org/en-US/
 
 # 5.Contact: #
