@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/126029213/226600275-c8c2a8e8-51b5-4e56
 
 # The Code now after it has been refactoerd & Debugged in HTML: # 
 
-file:///C:/Users/Admin/bootcamp/challenges/Horiseon-Search-Engine-Optimizations-Webpage--Edits-Updates/HTML/Index.Html
+https://mr-mbambrick.github.io/Horiseon-Search-Engine-Optimizations-Webpage--Edits-Updates/
 
 #code has been refactored #
 *Major Changes Made are as follows*,
