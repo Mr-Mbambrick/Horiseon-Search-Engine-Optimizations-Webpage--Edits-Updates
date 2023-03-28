@@ -17,7 +17,7 @@ This was our first challenge through The Adelaide of Universits Coding bootcamp.
 
             chapter 5. My contact information :if you have any Questions or conrners feel free to reach out.
 
-# 1. Useful Information i learnt about HTML & CSS structure #
+# 1. Useful Information i learnt about Html & CSS structure #
 
 
 
